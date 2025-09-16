@@ -1,6 +1,9 @@
 # 👋 Hi, I'm solkem!
 
-**Innovation Architect** from Bethesda, Maryland, US
+**Innovation Architect** 
+🌱 Builder of **[EdgeChain](https://github.com/solkem/edgechain-agricultural-ai)** –  
+Community-Owned Agricultural Intelligence powered by **Edge AI + Blockchain + Federated Learning**  
+Bethesda, Maryland, US
 
 ---
 
@@ -24,9 +27,15 @@ I thrive on solving complex problems where intelligence and decentralization mee
 ---
 
 ### 🌟 Favorite Project
-
+![EdgeChain Banner](https://github.com/solkem/edgechain-agricultural-ai/blob/main/docs/images/edgechain_banner.png)
 #### [EdgeChain](https://github.com/solkem/edgechain-agricultural-ai)
 Building the future of decentralized intelligence at the edge.
+
+
+
+🚀 Live Prototype → [Try EdgeChain MVP](https://solkem.github.io/edgechain-agricultural-ai/)
+
+> Empowering farmers to co-create technology, protect their data, and benefit from AI-driven insights.
 
 ---
 
