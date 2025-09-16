@@ -8,7 +8,7 @@ Bethesda, Maryland, US
 ---
 
 ### 🚀 Personal Motto
-**Bringing Decentralized Solutions to Decentralized People**
+**Bringing Decentralized Solutions to "Decentralized People"**
 
 ---
 
