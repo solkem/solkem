@@ -27,7 +27,6 @@ I thrive on solving complex problems where intelligence and decentralization mee
 ---
 
 ### 🌟 Favorite Project
-![EdgeChain Banner](https://github.com/solkem/edgechain-agricultural-ai/blob/main/docs/images/edgechain_banner.png)
 #### [EdgeChain](https://github.com/solkem/edgechain-agricultural-ai)
 Building the future of decentralized intelligence at the edge.
 
@@ -42,9 +41,7 @@ Building the future of decentralized intelligence at the edge.
 ### 📚 Other Notable Projects
 
 - [Homelab](https://github.com/solkem/homelab)
-- [Lucid Cardano Starter](https://github.com/solkem/lucid-cardano-starter)
-- [Federated Learning Course](https://github.com/solkem/Federated-Learning-Course)
-- [Postgres](https://github.com/solkem/Postgres)
+
 
 ---
 
