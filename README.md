@@ -29,9 +29,6 @@ I thrive on solving complex problems where intelligence and decentralization mee
 ### 🌟 Favorite Project
 #### [EdgeChain](https://github.com/solkem/edgechain-agricultural-ai)
 Building the future of decentralized intelligence at the edge.
-
-
-
 🚀 Live Prototype → [Try EdgeChain MVP](https://solkem.github.io/edgechain-agricultural-ai/)
 
 > Empowering farmers to co-create technology, protect their data, and benefit from AI-driven insights.
@@ -39,9 +36,9 @@ Building the future of decentralized intelligence at the edge.
 ---
 
 ### 📚 Other Notable Projects
-
-- [Homelab](https://github.com/solkem/homelab)
-
+- [Off-Grid IoT Urban Farming] (https://github.com/st-peters-mbare-iot-makerspace/Offgrid-IoT-Urban-Farming)
+- [Incentivized Internet Sharing] (https://github.com/st-peters-mbare-iot-makerspace/Offline-First-Incentivized-Internet-Sharing-Community-Network)
+- [Proof of Privacy for Smart Homes] (https://github.com/st-peters-mbare-iot-makerspace/Proof-of-Privacy-for-Smart-Homes)
 
 ---
 
