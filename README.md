@@ -1,7 +1,7 @@
 # 👋 Hi, I'm solkem!
 
 **Innovation Architect** 
-🌱 Builder of **[EdgeChain](https://github.com/solkem/edgechain-agricultural-ai)** –  
+🌱 Builder of **[EdgeChain](https://github.com/solkem/edgechain-agricultural-ai)**  
 Community-Owned Agricultural Intelligence powered by **Edge AI + Blockchain + Federated Learning**  
 Bethesda, Maryland, US
 
