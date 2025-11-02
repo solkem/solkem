@@ -14,7 +14,7 @@ Bethesda, Maryland, US
 
 ### 🧠 About Me
 
-I'm solkem we BaeIoT(Derived from 4 techs).  
+I'm solkem we BaeIoT (Derived from 4 techs).  
 Passionate about designing and architecting the next wave of technological innovation at the intersections of:
 
 - **Blockchain**
